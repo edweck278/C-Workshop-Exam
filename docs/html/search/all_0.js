@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['greeting_0',['greeting',['../greeting_8c.html#a31846fa68d4bd245a16a67a952035c3e',1,'greeting():&#160;greeting.c'],['../greeting_8h.html#a31846fa68d4bd245a16a67a952035c3e',1,'greeting():&#160;greeting.c']]],
-  ['greeting_2ec_1',['greeting.c',['../greeting_8c.html',1,'']]],
-  ['greeting_2eh_2',['greeting.h',['../greeting_8h.html',1,'']]]
+  ['appendstring_0',['AppendString',['../strlib_8c.html#a2e16056c6206823c6093a4f863a7cae2',1,'AppendString(String *dst, const String *src):&#160;strlib.c'],['../strlib_8h.html#a2e16056c6206823c6093a4f863a7cae2',1,'AppendString(String *dst, const String *src):&#160;strlib.c']]]
 ];
