@@ -101,7 +101,7 @@ void AppendString(String *dst, const String *src)
         return;
     }
     char *new = (char *) malloc(sizeof(src->str)+sizeof(dst->str));
-    strcpy(new, dst->str)
+    strcpy(new, dst->str);
     free(dst->str);
     strcat(new, src->str);
     dst->str = new;
